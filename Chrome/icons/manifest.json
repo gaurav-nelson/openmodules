@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Open modules",
+  "version": "1.0",
+
+  "description": "Open module files in OpenShift Docs GitHub repository from Assemblies.",
+
+  "icons": {
+    "48": "icons/48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.github.com/openshift/openshift-docs/*"],
+      "js": ["openmodule.js"]
+    }
+  ]
+}
