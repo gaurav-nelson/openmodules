@@ -8,6 +8,6 @@ for (var i = 0; i < links.length; i++) {
     console.info("Updating the following original link to point to the module");
     console.log("%c" + links[i].href, "color: blue");
     links[i].style.textDecoration = "underline green 2px";
-    links[i].href = links[i].href.replace(/(?<=\/blob\/.\w+\/).+\/(?=modules)/, "");
+    links[i].href = links[i].href.replace(/(?<=\/blob\/(.\w+\/)|(.\w+-\d.\d\/)|(.\w+-\d.\d\d\/)).+\/(?=modules)/, "");
   }
 }
