@@ -18,3 +18,6 @@ To use it:
 
 ### Firefox Add-on
 [![Available in the Firefox Add-ons](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/open-modules/)
+
+https://user-images.githubusercontent.com/23069445/153749986-6a9cb785-5fb7-42ab-8ab1-43b336f236ae.mov
+
