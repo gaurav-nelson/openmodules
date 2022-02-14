@@ -1,6 +1,9 @@
 ![](https://lh3.googleusercontent.com/wfK_Af14_mSpx1M3xP3xKpZ2X4Ov8Iml_WKWAM_zma73Knsxx8IN5BMFyHL2D6nCcPkTEHOwNma9bV16xaqWA_xixtE=w128-h128-e365-rj-sc0x00ffffff)
 
 # Open modules
+
+https://user-images.githubusercontent.com/23069445/153749986-6a9cb785-5fb7-42ab-8ab1-43b336f236ae.mov
+
 OpenShift docs repository uses symlinks for the `modules` folder.
 Therefore, when you include modules in your assemblies files, you only have to use `module/<file-name>.adoc` instead of the entire path. However, GitHub's default AsciiDoc preview does not honor the symlinks. As a result, when you click the link for modules in GitHub, it shows a 404 error.
 
@@ -18,6 +21,3 @@ To use it:
 
 ### Firefox Add-on
 [![Available in the Firefox Add-ons](https://ffp4g1ylyit3jdyti1hqcvtb-wpengine.netdna-ssl.com/addons/files/2015/11/get-the-addon.png)](https://addons.mozilla.org/en-US/firefox/addon/open-modules/)
-
-https://user-images.githubusercontent.com/23069445/153749986-6a9cb785-5fb7-42ab-8ab1-43b336f236ae.mov
-
